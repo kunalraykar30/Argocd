@@ -22,5 +22,6 @@ Username: admin
 Password: default-password
 ```
 #### Update Password of argocd 
-```argocd account update-password
+```
+argocd account update-password
 ```
